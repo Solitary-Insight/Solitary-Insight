@@ -1,8 +1,9 @@
 <div align="center">
 
 # Hi, I'm Abdul Haseeb
+# @HectaSolutions
 
-### Full-Stack Developer — Real-Time Systems · Cross-Platform Apps · Scheduling Algorithms
+### Full-Stack Developer — Real-Time Systems · Cross-Platform Apps 
 
 <br>
 
@@ -116,7 +117,7 @@ Exam preparation platform with real-time quiz sessions and live Q&A between educ
 
 <div align="center">
 
-See [github.com/Solitary-Insight](https://github.com/Solitary-Insight) for the full list, including Tracker-Do, E-Chat, and the Real-Estate CRM.
+See [github.com/Solitary-Insight](https://github.com/Solitary-Insight) for the full list.
 
 </div>
 
