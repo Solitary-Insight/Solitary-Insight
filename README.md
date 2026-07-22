@@ -1,132 +1,118 @@
-<div align="center">
+# Abdul Haseeb
 
-# Hi, I'm Abdul Haseeb
-# @HectaSolutions
+**Full-Stack Developer · IoT Systems · Real-Time Applications**
 
-### Full-Stack Developer — Real-Time Systems · Cross-Platform Apps 
+Full-Stack Developer at Hecta Solutions (Islamabad), currently completing a BS in Computer Science at Shifa Tameer-E-Millat University (CGPA 3.88, Merit Scholar). Two years of production experience across web, mobile, and IoT platforms, with a focus on real-time systems and scalable backend architecture.
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://solitary-developer.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-haseeb-insight)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulhaseeb.syslab@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Solitary-Insight)
-
-</div>
-
-<br>
+---
 
 ## About
 
-I'm a full-stack developer currently at **Hecta Solutions**, with two years of experience shipping production applications across web, mobile, and IoT. BS in Computer Science from Shifa Tameer-e-Millat University — CGPA 3.88, 100% Merit Scholarship.
+I build production software across the web, mobile, and IoT stack — from React and Next.js frontends to Node.js backends, Flutter applications, and LoRaWAN sensor networks. My interests center on system design, real-time data pipelines, and applying machine learning to practical, deployed products.
 
-My work centers on real-time systems, cross-platform apps, and backend architecture. Most recently, I've been building a beam-search based university timetabling engine from the ground up — from constraint modeling to performance optimization.
+- CS undergraduate, Shifa Tameer-E-Millat University — 100% Merit Scholarship
+- Full-Stack Developer, Hecta Solutions
+- 10+ production applications delivered as an independent contractor
+- Prior internship: Royalion Developers (real estate and mobile applications)
+- Core stack: React, Next.js, Node.js, Flutter, Firebase, MySQL, LoRaWAN/NodeMCU
+- Based in Islamabad, Pakistan
 
-```
-Currently:    Full-Stack Developer @ Hecta Solutions
-Previously:   Freelance (2023–Present)  ·  Royalion Developers (2023)
-Focus:        Real-time systems · Scheduling algorithms · Cross-platform apps
-```
+---
 
-<br>
+## Experience
 
-## Tech Stack
+**Full-Stack Developer** — Hecta Solutions
+*Islamabad, Pakistan · May 2026 – Present*
+- Develop full-stack web and mobile applications for enterprise clients
+- Architect scalable backend systems and RESTful APIs
+- Build responsive, user-facing frontend interfaces
+- Participate in code review, sprint planning, and technical documentation
 
-<div align="left">
+**Full-Stack Developer (Independent)**
+*Remote · Feb 2023 – Present*
+- Delivered 10+ production applications across web, mobile, and desktop
+- Designed RESTful APIs with JWT authentication and role-based access control
+- Implemented real-time features using Socket.io, Firebase, and FCM push notifications
+- Managed data layers across MongoDB, MySQL, and Firestore
+- Deployed and maintained infrastructure on Vercel and Firebase Hosting
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Full-Stack App Development Intern** — Royalion Developers
+*Islamabad, Pakistan · May 2023 – Dec 2023*
+- Built a production real-estate desktop application (Electron, Node.js, Firebase)
+- Developed Anger-Pill, a Kotlin mobile app for psychological surveys with Firebase-based tracking
+- Contributed to code review and sprint planning in a cross-functional team
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+---
 
-**Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+## Selected Projects
 
-**Languages & Tools**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**DairySense** — IoT Farm Management Platform *(Final Year Project, 2025)*
+React Native, Node.js, Python, MySQL, Socket.io, JWT, FCM, LoRaWAN
+A multi-tier platform combining a mobile app, web dashboard, and embedded sensor network for dairy farm operations: real-time cattle location tracking via LoRaWAN collars, health and heat-detection analytics, milk production tracking, and a payroll/HR module for farm staff.
 
-</div>
+**SMAS** — Smart Multi-Agent Scheduling *(2024–present)*
+Next.js, Node.js, MariaDB, Socket.io, TailwindCSS
+A constraint-based university timetabling system using a beam-search scheduling engine. Recent work includes support for lab courses as consecutive multi-slot blocks and a ~1.8x performance improvement through deferred cloning, parallelized database loading, and hoisted precomputation.
 
-<br>
+**VoteNow** — Secure Online Election Platform *(2024)*
+Next.js, Firebase, Vercel
+Voter registration, tokenized ballot submission, real-time result visualization, and an admin dashboard.
 
-## Selected Work
+**Study Sphere** — Exam Preparation Platform *(2023)*
+Angular, Node.js, Socket.io, MySQL
+Real-time quiz sessions, live Q&A, and structured exam analytics for educator-student interaction.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Real-Estate Management Software** *(Proprietary, 2023)*
+Electron, Node.js, Firebase
+Cross-platform CRM for property and client management, built for Hashim Associates.
 
-### [SMAS — Smart Multi-Agent Scheduling](https://github.com/Solitary-Insight/SMAS)
-University timetabling system using constraint-aware beam search to schedule courses, teachers, and rooms without conflicts.
+**E-Chat** — Social Media Application *(2023)*
+Flutter, Firebase, Cloudinary
+Real-time chat, social feed, authentication, and media uploads.
 
-`Next.js` `Node.js` `MariaDB` `Socket.io`
+---
 
-Optimized the core engine for a ~1.8x speedup via deferred cloning and parallelized DB loading.
+## Technical Skills
 
-</td>
-<td width="50%" valign="top">
+**Frontend:** React, Next.js, Angular, React Native, Flutter, TypeScript, JavaScript, TailwindCSS, Bootstrap, HTML5/CSS3
 
-### [DairySense](https://github.com/Solitary-Insight)
-IoT cattle monitoring platform — React Native app, admin dashboard, and a Python daemon reading live sensor data over LoRaWAN.
+**Backend:** Node.js, Express.js, Flask, REST API design, WebSockets, Socket.io, JWT, middleware
 
-`React Native` `Python` `MySQL` `LoRaWAN`
+**Databases & Cloud:** MongoDB, MySQL, MariaDB, Firebase Firestore, PostgreSQL, AWS, Azure DevOps, Vercel, Cloudinary, FCM
 
-Real-time WebSocket channels and FCM alerts for farm workers.
+**Mobile:** Flutter, Dart, React Native, Android SDK (Java/Kotlin), Google Maps API, Firebase
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**IoT & Embedded:** LoRaWAN, NodeMCU, STM32, Arduino, real-time sensor data processing
 
-### [VoteNow](https://github.com/Solitary-Insight)
-Secure online election platform with tokenized ballot submission and real-time result visualization.
+**Tools:** Git, GitHub, Postman, Docker, VS Code, Android Studio, Electron, Jupyter Lab, CI/CD
 
-`Next.js` `Firebase` `Vercel`
+**Languages:** JavaScript, TypeScript, Python, Java, Kotlin, Dart, PHP, C++, SQL
 
-</td>
-<td width="50%" valign="top">
+---
 
-### [Study Sphere](https://github.com/Solitary-Insight)
-Exam preparation platform with real-time quiz sessions and live Q&A between educators and students.
+## Education & Certifications
 
-`Angular` `Node.js` `Socket.io` `MySQL`
+| Credential | Issuer | Date |
+|---|---|---|
+| BS Computer Science (CGPA 3.88, 100% Merit) | Shifa Tameer-E-Millat University | Feb 2026 |
+| Academic Brilliance Certificate | STMU Islamabad | Apr 2025 |
+| Machine Learning Certificate (Stanford/Andrew Ng) | Simplilearn | Dec 2024 |
+| Internship Certificate | Royalion Developers | Nov 2023 |
+| Responsive Web Design | freeCodeCamp | Feb 2023 |
 
-</td>
-</tr>
-</table>
+---
 
-<div align="center">
+## GitHub Activity
 
-See [github.com/Solitary-Insight](https://github.com/Solitary-Insight) for the full list.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solitary-Insight&layout=compact&theme=tokyonight&hide=html&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solitary-Insight&theme=tokyonight&show_icons=true&count_private=true)
 
-</div>
+---
 
-<br>
+## Contact
 
-<br>
-
-<div align="center">
-
-**[abdulhaseeb.syslab@gmail.com](mailto:abdulhaseeb.syslab@gmail.com)**
-
-</div>
+- Email: [abdulhaseeb.syslab@gmail.com](mailto:abdulhaseeb.syslab@gmail.com)
+- LinkedIn: [linkedin.com/in/abdul-haseeb-insight](https://linkedin.com/in/abdul-haseeb-insight)
+- GitHub: [github.com/Solitary-Insight](https://github.com/Solitary-Insight)
+- Website: [www.solitary-developer.web.app](https://solitary-developer.web.app/)
+- Phone: +92 324 5305718
