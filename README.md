@@ -19,8 +19,8 @@ Full-Stack Developer at Hecta Solutions, Islamabad. BS Computer Science, Shifa T
 
 **Full-Stack Developer — Hecta Solutions**
 *Islamabad · May 2026 – Present*
-- Build web and mobile applications for enterprise clients
-- Design backend systems and REST APIs
+- Contributed in careInn middleware for commercial and hospitality Tvs(Tizen and LG tvs) accross Samsung and webOs ecosystem.
+- Contributed in backend systems and REST APIs
 - Build frontend interfaces
 - Participate in code review and sprint planning
 
