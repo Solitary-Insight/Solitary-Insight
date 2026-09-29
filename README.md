@@ -137,33 +137,38 @@ Git, GitHub, VS Code, Android Studio, Postman, Jupyter Lab, MongoDB Compass
 ## Education
 
 **BS Computer Science — Shifa Tameer-E-Millat University**
-*Islamabad · 2022–2026*
+*Islamabad · Jul. 2022 – Feb. 2026*
 **CGPA: 3.88 / 4.00 · 100% Merit Scholarship**
 
 **FSc Pre-Medical — Allama Iqbal Model Science College**
-*2018–2020 · 94%*
+*Sep. 2018 – Jun. 2020 · 94%*
+
+**Matric in Science — Read Foundation School System**
+*Aug. 2015 – Jul. 2017 · 86%*
 
 ---
 
 ## Certifications
 
-* Academic Brilliance Certificate — Shifa Tameer-E-Millat University · 2025
-* Machine Learning Certificate — Simplilearn / Stanford-Andrew Ng Curriculum · 2024
-* Internship Certificate — Royalion Developers · 2023
-* Responsive Web Design — freeCodeCamp · 2023
+* Academic Brilliance Certificate — Shifa Tameer-E-Millat University · Apr. 2025
+* Machine Learning Certificate — Simplilearn / Stanford-Andrew Ng Curriculum · Dec. 2024
+* Internship Certificate — Royalion Developers · Nov. 2023
+* Responsive Web Design — freeCodeCamp · Feb. 2023
 
 ---
 
-## GitHub
+## GitHub Activity
 
-**GitHub:** github.com/Solitary-Insight
-**LinkedIn:** linkedin.com/in/abdul-haseeb-insight
-**Portfolio:** solitary-developer.web.app
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solitary-Insight\&layout=compact\&theme=tokyonight\&hide=html\&langs_count=8)](https://github.com/Solitary-Insight)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solitary-Insight\&theme=tokyonight\&show_icons=true\&count_private=true)](https://github.com/Solitary-Insight)
 
 ---
 
 ## Contact
 
-**Email:** [abdulhaseeb.syslab@gmail.com](mailto:abdulhaseeb.syslab@gmail.com)
-**Phone:** +92 324 5305718
-**Location:** Islamabad, Pakistan
+* **Email:** [abdulhaseeb.syslab@gmail.com](mailto:abdulhaseeb.syslab@gmail.com)
+* **LinkedIn:** [linkedin.com/in/abdul-haseeb-insight](https://linkedin.com/in/abdul-haseeb-insight)
+* **GitHub:** [github.com/Solitary-Insight](https://github.com/Solitary-Insight)
+* **Portfolio:** [solitary-developer.web.app](https://solitary-developer.web.app/)
+* **Phone:** [+92 324 5305718](tel:+923245305718)
